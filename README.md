@@ -1,5 +1,7 @@
+---licencia-++mit
+@soft2i
 # A permalink for your MIT License
-
+[Soft2i]
 I always forget to add a `LICENSE` file to my projects, so I wanted to link to a single resource that would always be up to date and would always have my details online.
 
 Why keep this to myself, there are three ways to create your _own_ MIT license page:
